@@ -21,6 +21,8 @@ public class HelloWorld{
 	 int a=10;
 	 int b=10;
 	 String S="Hello";
+	 int c=30;
+	 
 
  }
 
