@@ -10,10 +10,10 @@ public class HelloWorld{
  //Entry point ..... in ur phone if u r opening  banking App
  public static void main(String[] args){
 	System.out.println("Hello Albin, welcome to java world");
-	int a=10;
-	System.out.println("A="+a);
-	a++;
-	System.out.println("A="+a++);
+	int a=10;// 1st commit
+	System.out.println("A="+a);//2nd commit
+	a++;// 3rd commit
+	System.out.println("A="+a++); //4th commit
 
  }
 
