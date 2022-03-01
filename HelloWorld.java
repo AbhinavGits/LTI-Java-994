@@ -12,6 +12,8 @@ public class HelloWorld{
 	System.out.println("Hello Albin, welcome to java world");
 	int a=10;
 	System.out.println("A="+a);
+	a++;
+	System.out.println("A="+a++);
 
  }
 
