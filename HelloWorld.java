@@ -10,6 +10,7 @@ public class HelloWorld{
  //Entry point ..... in ur phone if u r opening  banking App
  public static void main(String[] args){
 	System.out.println("Hello Albin, welcome to java world");
+	int a=10;
 
  }
 
