@@ -15,6 +15,7 @@ public class HelloWorld{
 	a++;// 3rd commit
 	System.out.println("A="+a++); //4th commit
 	System.out.println("5th commit");
+	int j=100;
 
  }
 
