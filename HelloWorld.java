@@ -17,6 +17,10 @@ public class HelloWorld{
 	System.out.println("5th commit");
 	int j=100;
 	 System.out.println(j);
+	 
+	 int a=10;
+	 int b=10;
+	 String S="Hello";
 
  }
 
